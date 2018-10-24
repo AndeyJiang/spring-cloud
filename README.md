@@ -8,3 +8,5 @@ Finchley版本
 3、chapter3   "feign",默认集成ribbon，更简单的客户端负载均衡请求
 
 4、chapter4   "feign"，默认集成Hystric，实现断路器，返回制定字符
+
+5、chapter5   "Zuul",网关默认集成ribbon，实现路由和过滤
