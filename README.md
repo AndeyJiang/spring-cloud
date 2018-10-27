@@ -10,3 +10,5 @@ Finchley版本
 4、chapter4   "feign"，默认集成Hystric，实现断路器，返回制定字符
 
 5、chapter5   "Zuul",网关默认集成ribbon，实现路由和过滤
+
+6、chapter6   "cloud-config"  配置中心，将服务配置文件放到远程git统一管理
