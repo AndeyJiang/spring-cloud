@@ -13,4 +13,4 @@ Finchley版本
 
 6、chapter6   "cloud-config"  分布式配置中心，将服务配置文件放到远程git统一管理
 
-7 chapter7    "cloud-config" 高可用的分布式配置中心，针对配置中心的集群部署处理
+7、chapter7    "cloud-config" 高可用的分布式配置中心，针对配置中心的集群部署处理
