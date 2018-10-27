@@ -11,4 +11,4 @@ Finchley版本
 
 5、chapter5   "Zuul",网关默认集成ribbon，实现路由和过滤
 
-6、chapter6   "cloud-config"  配置中心，将服务配置文件放到远程git统一管理
+6、chapter6   "cloud-config"  分布式配置中心，将服务配置文件放到远程git统一管理
